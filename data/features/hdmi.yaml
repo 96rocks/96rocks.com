@@ -1,0 +1,4 @@
+weight: 3
+name: "HDMI"
+icon: "fa fa-television fa-2x"
+description: "HDMI 2.0, up to 4K x 2K@60HZ, support HDMI CEC and HDCP."

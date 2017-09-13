@@ -1,0 +1,4 @@
+weight: 4
+name: "wireless"
+icon: "fa fa-wifi fa-2x"
+description: "On board wifi supports 802.11 a/b/g/n/ac 2x2 MIMO, up to 867Mbps, and Bluetooth 4.1 with on board two antennas."

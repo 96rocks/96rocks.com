@@ -1,0 +1,4 @@
+weight: 5
+name: "PCIE"
+icon: "fa fa-microchip fa-2x"
+description: "On board M.2 key M pcie connector, supports up to 4 lanes PCIE 2.1, max bandwidth 2.0GB, supports M.2 SSD, 4G card and other PCIE cards"

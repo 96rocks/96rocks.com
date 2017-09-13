@@ -1,0 +1,10 @@
+weight: 10
+title: "Introduce rock960"
+description: 
+  <ul class="list-style-none">
+     <li>The first 96boards based on rockchip's</li>
+     <li>latest high performace soc</li>
+     <li>RK3399</li>
+     <li>for the community</li>
+   </ul>
+image: "img/carousel/96boards-sensors.png"

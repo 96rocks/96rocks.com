@@ -1,0 +1,11 @@
+weight: 25
+title: "Rich Interfaces"
+description: >
+  <ul class="list-style-none">
+     <li>USB 3.1 type C with DP</li>
+     <li>HDMI 2.0 with 4K output</li>
+     <li>4 lanes M.2 PCI-E 2.1</li>
+     <li>40 pin low speed expansion header</li>
+     <li>60 pin high speed expansion header</li>
+   </ul>
+image: "img/carousel/96boards-mezzanine.png"

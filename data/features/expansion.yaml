@@ -1,0 +1,4 @@
+weight: 6
+name: "Expansion"
+icon: "fa fa-expand fa-2x"
+description: "Standard 96boards high speed expansion header including MIPI/CSI/USB/SDIO/HSIC and low speed expansion header including UART/I2C/SPI/GPIO/I2S."

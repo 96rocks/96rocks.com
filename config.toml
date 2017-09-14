@@ -1,4 +1,4 @@
-baseurl = "https://96rocks.com"
+baseurl = "https://96rocks.github.io/96rocks.com"
 title = "96boards for Rockchip SoCs"
 theme = "hugo-universal-theme"
 languageCode = "en-us"

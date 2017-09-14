@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Default on 96boards for Rockchip SoCs</title>
+    <link>https://96rocks.github.io/96rocks.com/categories/default/</link>
+    <description>Recent content in Default on 96boards for Rockchip SoCs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2017, Vamrs Limited; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://96rocks.github.io/96rocks.com/categories/default/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello rock960</title>
+      <link>https://96rocks.github.io/96rocks.com/blog/2015/10/10/hello-rock960/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://96rocks.github.io/96rocks.com/blog/2015/10/10/hello-rock960/</guid>
+      <description>Hello, here comes the rock960, a Rockchip RK3399 based single board computer which is compliant for the 96boards CE specification.</description>
+    </item>
+    
+  </channel>
+</rss>

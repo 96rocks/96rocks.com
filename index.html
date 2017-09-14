@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>96boards for Rockchip SoCs</title>
+  <meta name="author" content="" />
+
+  
+  <meta name="keywords" content="rk3399, rock960, 96boards">	
+  
+
+  
+  <meta name="description" content="96boards for Rockchip SoCs">	
+  
+
+  <meta name="generator" content="Hugo 0.26" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  
+  <link href="https://96rocks.github.io/96rocks.comcss/animate.css" rel="stylesheet">
+
+  
+  
+    <link href="https://96rocks.github.io/96rocks.comcss/style.turquoise.css" rel="stylesheet" id="theme-stylesheet">
+  
+
+
+  
+  <link href="https://96rocks.github.io/96rocks.comcss/custom.css" rel="stylesheet">
+
+  
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+  <link rel="shortcut icon" href="https://96rocks.github.io/96rocks.comimg/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://96rocks.github.io/96rocks.comimg/apple-touch-icon.png" />
+  
+
+  <link href="https://96rocks.github.io/96rocks.comcss/owl.carousel.css" rel="stylesheet">
+  <link href="https://96rocks.github.io/96rocks.comcss/owl.theme.css" rel="stylesheet">
+
+  <link rel="alternate" href="https://96rocks.github.io/index.xml" type="application/rss+xml" title="96boards for Rockchip SoCs">
+
+  
+  <meta property="og:title" content="96boards for Rockchip SoCs" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/96rocks.com//" />
+  <meta property="og:image" content="img/logo.png" />
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          
+<div id="top">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-5">
+        <p class="hidden-sm hidden-xs">Contact us on support@vamrs.com.</p>
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      
+      </div>
+      <div class="col-xs-7">
+        <div class="social">
+          
+          <a href="https://github.com/96rocks" target="_blank" style="opacity: 1;"><i class='fa fa-2x fa-github'></i></a>
+          
+          <a href="http://facebook.com" target="_blank" style="opacity: 1;"><i class='fa fa-2x fa-facebook'></i></a>
+          
+          <a href="http://twitter.com" target="_blank" style="opacity: 1;"><i class='fa fa-2x fa-twitter'></i></a>
+          
+          <a href="mailto:support@vamrs.com" target="_blank" style="opacity: 1;"><i class='fa fa-2x fa-envelope'></i></a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200">
+
+    <div class="navbar navbar-default yamm" role="navigation" id="navbar">
+
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="https://96rocks.github.io/96rocks.com">
+                    <img src="https://96rocks.github.io/96rocks.comimg/logo.png" alt="96boards for Rockchip SoCs logo" class="hidden-xs hidden-sm">
+                    <img src="https://96rocks.github.io/96rocks.comimg/logo-small.png" alt="96boards for Rockchip SoCs logo" class="visible-xs visible-sm">
+                    <span class="sr-only">96boards for Rockchip SoCs - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/96rocks.com/">Home</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/96rocks.com/blog/">Blog</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/96rocks.com/faq/">FAQ</a>
+                    
+                  </li>
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/96rocks.com/contact/">Contact</a>
+                    
+                  </li>
+                  
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+
+                </span>
+                    </div>
+                </form>
+
+            </div>
+            
+
+        </div>
+    </div>
+    
+
+</div>
+
+
+
+
+        </header>
+
+        
+
+
+<section>
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel">
+                
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-5 right">
+                            <h1>Introduce rock960</h1>
+                            <ul class="list-style-none"> <li>The first 96boards based on rockchip's</li> <li>latest high performace soc</li> <li>RK3399</li> <li>for the community</li> </ul>
+                        </div>
+                        <div class="col-sm-7">
+                            <img class="img-responsive" src="img/carousel/96boards-sensors.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-5 right">
+                            <h1>Design</h1>
+                            <ul class="list-style-none">
+  <li>Compact but powerfull</li>
+  <li>4GB ram, 32GB emmc packed into a credit card size body</li>
+  <li>A truely little beast.</li>
+</ul>
+
+                        </div>
+                        <div class="col-sm-7">
+                            <img class="img-responsive" src="img/carousel/96boards-back.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-5 right">
+                            <h1>Rich Interfaces</h1>
+                            <ul class="list-style-none">
+   <li>USB 3.1 type C with DP</li>
+   <li>HDMI 2.0 with 4K output</li>
+   <li>4 lanes M.2 PCI-E 2.1</li>
+   <li>40 pin low speed expansion header</li>
+   <li>60 pin high speed expansion header</li>
+ </ul>
+
+                        </div>
+                        <div class="col-sm-7">
+                            <img class="img-responsive" src="img/carousel/96boards-mezzanine.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-5 right">
+                            <h1>Open eco-system</h1>
+                            <ul class="list-style-none">
+   <li>Unified expansion header and software libraries</li>
+   <li>Multiple venders support</li>
+   <li>Community expansion ideas</li>
+   <li>40 pin low speed extension header</li>
+ </ul>
+
+                        </div>
+                        <div class="col-sm-7">
+                            <img class="img-responsive" src="img/carousel/96boards-mezzanine.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+
+        
+
+
+<section class="bar background-white">
+    <div class="container">
+        
+		
+		<div class="col-md-12">
+            <div class="row">
+		
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="fa fa-bolt fa-2x"></i>
+                        </div>
+                        <h3>Processor</h3>
+                        <p>Dual Cortex-A72 + quad Cortex-A53 CPU, up to 2.0GHz frequency. Mali T860MP4 GPU, supports OpenGL ES 1.1 /2.0 /3.0 /3.1 /3.2, Vulkan 1.0, Open CL 1.1 1.2, DX11.</p>
+                    </div>
+                </div>
+		
+        
+		
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="fa fa-usb fa-2x"></i>
+                        </div>
+                        <h3>USB 3.0</h3>
+                        <p>One USB 3.0 type A port, up to 5.0Gbps. One USB type C port, USB 3.0 with DP 1.2 combined, reversibly plug. One USB 2.0 type A up to 480Mbps.</p>
+                    </div>
+                </div>
+		
+        
+		
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="fa fa-television fa-2x"></i>
+                        </div>
+                        <h3>HDMI</h3>
+                        <p>HDMI 2.0, up to 4K x 2K@60HZ, support HDMI CEC and HDCP.</p>
+                    </div>
+                </div>
+		
+			</div>
+		</div>
+		
+        
+		
+		<div class="col-md-12">
+            <div class="row">
+		
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="fa fa-wifi fa-2x"></i>
+                        </div>
+                        <h3>wireless</h3>
+                        <p>On board wifi supports 802.11 a/b/g/n/ac 2x2 MIMO, up to 867Mbps, and Bluetooth 4.1 with on board two antennas.</p>
+                    </div>
+                </div>
+		
+        
+		
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="fa fa-microchip fa-2x"></i>
+                        </div>
+                        <h3>PCIE</h3>
+                        <p>On board M.2 key M pcie connector, supports up to 4 lanes PCIE 2.1, max bandwidth 2.0GB, supports M.2 SSD, 4G card and other PCIE cards</p>
+                    </div>
+                </div>
+		
+        
+		
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <div class="icon">
+                            <i class="fa fa-expand fa-2x"></i>
+                        </div>
+                        <h3>Expansion</h3>
+                        <p>Standard 96boards high speed expansion header including MIPI/CSI/USB/SDIO/HSIC and low speed expansion header including UART/I2C/SPI/GPIO/I2S.</p>
+                    </div>
+                </div>
+		
+			</div>
+		</div>
+		
+        
+    </div>
+</section>
+
+
+
+
+
+        
+
+
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>Distributions</h2>
+                </div>
+
+                <p class="lead">
+                  As one of the most attractive member of 96boards family, ROCK960 is supported by many open source projects, officially or by the community.
+                </p>
+
+                
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>Android is the largest mobile platform on the planet. Android support on rock960 is based on AOSP(Android Open Source Project) with optimization from Rockchip with rich multimedia support. <br><br> <a href="http://doc.96rocks.com/rock960/android">Learn More</a></p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-lightbulb-o"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="https://96rocks.github.io/96rocks.com/img/testimonials/android.png">
+                                    <h5>Android</h5>
+                                    <p>Official</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>Yocto is not an embedded Linux distribution – it creates a custom one for you. It&rsquo;s almost the No.1 choice embedded linux distribution for serious projects. <br><br> <a href="http://doc.96rocks.com/rock960/yocto">Learn More</a></p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-lightbulb-o"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="https://96rocks.github.io/96rocks.com/img/testimonials/yocto.png">
+                                    <h5>Yocto</h5>
+                                    <p>Official</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>Ubuntu is one of the most popular Linux desktop distribution. But it also plays an important role in server/IOT and much more. <br><br> <a href="http://doc.96rocks.com/rock960/ubuntu">Learn more</a></p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-lightbulb-o"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="https://96rocks.github.io/96rocks.com/img/testimonials/ubuntu.png">
+                                    <h5>Ubuntu</h5>
+                                    <p>Official</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>Armbian is a young Linux distribution dedicated for ARM architechture, but it has a very large user base and active community. <br><br> <a href="http://doc.96rocks.com/rock960/armbian">Learn More</a></p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-lightbulb-o"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="https://96rocks.github.io/96rocks.com/img/testimonials/armbian.png">
+                                    <h5>Armbian</h5>
+                                    <p>Community</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>Community Enterprise Operating System, is a free, enterprise-class, community-supported computing platform functionally compatible with Red Hat Enterprise Linux. <br><br> <a href="http://doc.96rocks.com/rock960/centos">Learn More</a></p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-lightbulb-o"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="https://96rocks.github.io/96rocks.com/img/testimonials/centos.png">
+                                    <h5>CentOS</h5>
+                                    <p>Community</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>Flint OS is a fast, simple and productive operating system built on open source Chromium OS. <br><br> <a href="http://doc.96rocks.com/rock960/flintos">Learn More</a></p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-lightbulb-o"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="https://96rocks.github.io/96rocks.com/img/testimonials/flintos.png">
+                                    <h5>FlintOS</h5>
+                                    <p>Community</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                </ul>
+                
+
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+        
+
+<section class="bar background-image-fixed-2 no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="icon icon-lg"><i class="fa fa-users"></i>
+                </div>
+                <h3 class="text-uppercase">Having problems using ROCK960?</h3>
+                <p class="lead">We have a very friendly and active community.</p>
+                <p class="text-center">
+                    <a href="#" class="btn btn-template-transparent-black btn-lg">Join the community</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+        
+
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>Community Updates</h2>
+            </div>
+
+            <p class="lead">
+              Updates, news, latest events from the community.
+            </p>
+
+            
+
+            <div class="row">
+
+                
+                
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image" style="overflow:hidden">
+                                
+                                <img src="https://96rocks.github.io/96rocks.comimg/blog/rock960-dxf.png" class="img-responsive" alt="" >
+                                
+                            </div>
+                            <div class="bg"></div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="https://96rocks.github.io/96rocks.com/blog/2015/10/10/hello-rock960/" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4><a href="https://96rocks.github.io/96rocks.com/blog/2015/10/10/hello-rock960/">Hello rock960</a></h4>
+                            <p class="author-category">
+                            
+                            on October 10, 2015
+                            </p>
+                            <p class="intro">Hello, here comes the rock960, a Rockchip RK3399 based single board computer which is compliant for the 96boards CE specification.</p>
+                            <p class="read-more">
+                              <a href="https://96rocks.github.io/96rocks.com/blog/2015/10/10/hello-rock960/" class="btn btn-template-main">Continue reading</a>
+                            </p>
+                        </div>
+                    </div>
+                    
+
+                </div>
+                
+
+            </div>
+            
+
+            
+
+        </div>
+    </div>
+    
+</section>
+
+
+
+
+
+        
+
+
+<section class="bar background-gray no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>Our Partners</h2>
+                </div>
+
+                <p class="lead">
+                  
+                </p>
+
+                <ul class="owl-carousel customers">
+                    
+                    <li class="item" title="ARM">
+                        
+                          <a href="http://www.arm.com" target="_blank">
+                            <img src="img/clients/arm.jpg" alt="ARM" class="img-responsive" />
+                          </a>
+                        
+                    </li>
+                    
+                    <li class="item" title="Linaro">
+                        
+                          <a href="http://www.linaro.org" target="_blank">
+                            <img src="img/clients/linaro.jpg" alt="Linaro" class="img-responsive" />
+                          </a>
+                        
+                    </li>
+                    
+                    <li class="item" title="Rockchip">
+                        
+                          <a href="http://www.rock-chips.com" target="_blank">
+                            <img src="img/clients/rockchip.jpg" alt="Rockchip" class="img-responsive" />
+                          </a>
+                        
+                    </li>
+                    
+                    <li class="item" title="Seeed Studio">
+                        
+                          <a href="http://www.seeed.cc" target="_blank">
+                            <img src="img/clients/seeed.png" alt="Seeed Studio" class="img-responsive" />
+                          </a>
+                        
+                    </li>
+                    
+                    <li class="item" title="Canonical">
+                        
+                          <a href="https://www.canonical.com/" target="_blank">
+                            <img src="img/clients/canonical.png" alt="Canonical" class="img-responsive" />
+                          </a>
+                        
+                    </li>
+                    
+                    <li class="item" title="Synnex Corporation">
+                        
+                          <a href="https://www.synnexcorp.com/" target="_blank">
+                            <img src="img/clients/synnex.png" alt="Synnex Corporation" class="img-responsive" />
+                          </a>
+                        
+                    </li>
+                    
+                    <li class="item" title="WPG Holdings">
+                        
+                          <a href="http://www.wpgholdings.com/main/index/en" target="_blank">
+                            <img src="img/clients/wpg.png" alt="WPG Holdings" class="img-responsive" />
+                          </a>
+                        
+                    </li>
+                    
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+        <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>About us</h4>
+
+            96rocks - 96boards for Rockchip SoCs.
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+             
+            <h4>Recent posts</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://96rocks.github.io/96rocks.com/blog/2015/10/10/hello-rock960/">
+                          
+                            <img src="https://96rocks.github.io/96rocks.comimg/blog/rock960-dxf.png" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://96rocks.github.io/96rocks.com/blog/2015/10/10/hello-rock960/">Hello rock960</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://96rocks.github.io/96rocks.com/blog/">
+                          
+                            <img src="https://96rocks.github.io/96rocks.comimg/placeholder.png" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://96rocks.github.io/96rocks.com/blog/">Blogs</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+             
+
+        </div>
+        
+
+        
+        <div class="col-md-4 col-sm-6">
+
+          <h4>Contact</h4>
+
+            <strong>Vamrs Limited</strong>
+        <br>Seven Star Creative Park
+        <br>Baoan, Shenzhen
+        <br>518000
+        <br>Guangdong
+        <br>
+        <strong>People's Republic of China</strong>
+      </p>
+      
+
+
+            <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright (c) 2015 - 2017, Vamrs Limited; all rights reserved.</p>
+            
+            <p class="pull-right">
+              Powered by <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+              
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+    
+
+    
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-106307088-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCUqprR5G7UWu7h465QilU3-HuR1xTSEtQ&v=3.exp"></script>
+
+<script src="https://96rocks.github.io/96rocks.comjs/hpneo.gmaps.js"></script>
+<script src="https://96rocks.github.io/96rocks.comjs/gmaps.init.js"></script>
+<script src="https://96rocks.github.io/96rocks.comjs/front.js"></script>
+
+
+<script src="https://96rocks.github.io/96rocks.comjs/owl.carousel.min.js"></script>
+
+
+  </body>
+</html>

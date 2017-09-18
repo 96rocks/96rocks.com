@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>96boards for Rockchip SoCs</title>
-    <link>http://www.96rocks.com/</link>
+    <link>https://www.96rocks.com/</link>
     <description>Recent content on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Vamrs Limited; all rights reserved.</copyright>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="http://www.96rocks.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.96rocks.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello rock960</title>
-      <link>http://www.96rocks.com/blog/2015/10/10/hello-rock960/</link>
+      <link>https://www.96rocks.com/blog/2015/10/10/hello-rock960/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://www.96rocks.com/blog/2015/10/10/hello-rock960/</guid>
+      <guid>https://www.96rocks.com/blog/2015/10/10/hello-rock960/</guid>
       <description>Hello, here comes the rock960, a Rockchip RK3399 based single board computer which is compliant for the 96boards CE specification.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.96rocks.com/contact/</link>
+      <link>https://www.96rocks.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.96rocks.com/contact/</guid>
+      <guid>https://www.96rocks.com/contact/</guid>
       <description>Keep in touch The team behind 96rocks is Vamrs, an embedded solution provider based in Shenzhen, China. The 96rocks project aims at providing a fundamental hardware platform for the commercial and industrial applications. We believe that an open eco-system and open source community benefit everyone.
 Please feel free to contact us, we are happy to answer any 96rocks/96boards questions from you.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>http://www.96rocks.com/faq/</link>
+      <link>https://www.96rocks.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.96rocks.com/faq/</guid>
+      <guid>https://www.96rocks.com/faq/</guid>
       <description>Frequently asked questions for 96rocks.
 1. What is 96boards? 96Boards is an open hardware specification for ARM 32-bit and 64-bit developer boards(SBC, Single Board Computer), and a Community Program for software delivery to developers, makers and OEMs
 The orgnization behind 96boards is Linaro Ltd, a not-for-profit engineering organization developing open source software for the ARM® architecture.

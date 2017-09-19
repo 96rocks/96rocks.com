@@ -43,6 +43,11 @@ paginate = 10
     url  = "/contact/"
     weight = 40
 
+[[menu.main]]
+    name = "Pre-order"
+    url  = "/preorder/"
+    weight = 50
+
 # Top bar social links menu
 
 [[menu.topbar]]

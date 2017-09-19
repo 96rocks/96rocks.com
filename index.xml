@@ -43,5 +43,14 @@ The orgnization behind 96boards is Linaro Ltd, a not-for-profit engineering orga
 2. What is 96rocks? 96rocks is a project about 96boards for Rockchip SoCs. Rockchip is one of the major ARM SoC designers in China.</description>
     </item>
     
+    <item>
+      <title>Pre Order</title>
+      <link>https://www.96rocks.com/preorder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/preorder/</guid>
+      <description>Loading... </description>
+    </item>
+    
   </channel>
 </rss>

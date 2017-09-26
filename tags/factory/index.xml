@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Factory on 96boards for Rockchip SoCs</title>
+    <link>https://www.96rocks.com/tags/factory/</link>
+    <description>Recent content in Factory on 96boards for Rockchip SoCs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2017, Vamrs Limited; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 24 Sep 2017 09:20:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.96rocks.com/tags/factory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tour to the factory</title>
+      <link>https://www.96rocks.com/blog/2017/09/24/a-tour-to-the-factory/</link>
+      <pubDate>Sun, 24 Sep 2017 09:20:31 +0800</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2017/09/24/a-tour-to-the-factory/</guid>
+      <description>A tour to the factory After long preparation and in house design, we are finnally ready to start the first sample production for rock960. We visited the factory yesterday and brought back some fresh media to share with you.
+SMT production line
+The SMT, Surface Mount Technology, glue two parts together, the PCB and the components(chips and connectors).
+Samsung SMT machine
+RK3399 and bare PCBs
+The number of the sample is 10, with 2GB ram and 4GB ram variants, each 5pcs.</description>
+    </item>
+    
+  </channel>
+</rss>

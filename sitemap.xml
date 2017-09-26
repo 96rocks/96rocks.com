@@ -3,19 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.96rocks.com/blog/2015/10/10/hello-rock960/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://www.96rocks.com/blog/2017/09/25/rock960-poster/</loc>
+    <lastmod>2017-09-25T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/blog/2017/09/24/a-tour-to-the-factory/</loc>
+    <lastmod>2017-09-24T09:20:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/blog/2017/09/10/hello-rock960/</loc>
+    <lastmod>2017-09-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.96rocks.com/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-09-25T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.96rocks.com/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-09-25T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +40,7 @@
   
   <url>
     <loc>https://www.96rocks.com/categories/default/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-09-25T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,18 +49,36 @@
   </url>
   
   <url>
+    <loc>https://www.96rocks.com/tags/factory/</loc>
+    <lastmod>2017-09-24T09:20:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/manufacturing/</loc>
+    <lastmod>2017-09-24T09:20:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.96rocks.com/preorder/</loc>
   </url>
   
   <url>
     <loc>https://www.96rocks.com/tags/rock960/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-09-25T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/smt/</loc>
+    <lastmod>2017-09-24T09:20:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.96rocks.com/tags/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-09-24T09:20:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   

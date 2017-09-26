@@ -7,18 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Vamrs Limited; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello rock960</title>
-      <link>https://www.96rocks.com/blog/2015/10/10/hello-rock960/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Rock960 Poster</title>
+      <link>https://www.96rocks.com/blog/2017/09/25/rock960-poster/</link>
+      <pubDate>Mon, 25 Sep 2017 13:07:31 +0200</pubDate>
       
-      <guid>https://www.96rocks.com/blog/2015/10/10/hello-rock960/</guid>
-      <description>Hello, here comes the rock960, a Rockchip RK3399 based single board computer which is compliant for the 96boards CE specification.</description>
+      <guid>https://www.96rocks.com/blog/2017/09/25/rock960-poster/</guid>
+      <description>Rock960 Poster We have quickly made a poster for rock960. This was initial for the announcement at the SFO17 Linaro Connect. You can download the full pdf version here.
+Update:
+Some engineers and the VP of Rockchip, Chen Feng, shared this poster at their Wechat Moments.</description>
+    </item>
+    
+    <item>
+      <title>Tour to the factory</title>
+      <link>https://www.96rocks.com/blog/2017/09/24/a-tour-to-the-factory/</link>
+      <pubDate>Sun, 24 Sep 2017 09:20:31 +0800</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2017/09/24/a-tour-to-the-factory/</guid>
+      <description>A tour to the factory After long preparation and in house design, we are finnally ready to start the first sample production for rock960. We visited the factory yesterday and brought back some fresh media to share with you.
+SMT production line
+The SMT, Surface Mount Technology, glue two parts together, the PCB and the components(chips and connectors).
+Samsung SMT machine
+RK3399 and bare PCBs
+The number of the sample is 10, with 2GB ram and 4GB ram variants, each 5pcs.</description>
+    </item>
+    
+    <item>
+      <title>Hello rock960</title>
+      <link>https://www.96rocks.com/blog/2017/09/10/hello-rock960/</link>
+      <pubDate>Sun, 10 Sep 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2017/09/10/hello-rock960/</guid>
+      <description>Rock960 layout Hello, here comes the rock960, a Rockchip RK3399 based single board computer which is compliant for the 96boards CE specification.
+The screenshot below shows the basic layout of the board, with major SoC, dram, emmc and connectors in place.
+Considering that the 96boards CE specification of board size is only 85mm x 54mm, the actually size is really small.</description>
     </item>
     
     <item>

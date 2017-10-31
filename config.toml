@@ -99,7 +99,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "support@vamrs.com"
+    email = "hello@vamrs.com"
 
     about_us = "<p>96rocks - 96boards for Rockchip SoCs.</p>"
     copyright = "Copyright (c) 2015 - 2017, Vamrs Limited; all rights reserved."

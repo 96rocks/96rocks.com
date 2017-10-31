@@ -115,6 +115,9 @@ paginate = 10
         <br>Guangdong
         <br>
         <strong>People's Republic of China</strong>
+        <br>
+        <br><strong>Email:</strong> support@vamrs.com
+        <br>
       </p>
       """
     latitude = "22.578850"

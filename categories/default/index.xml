@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2017, Vamrs Limited; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Sep 2017 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2017 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/categories/default/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rock960 Linux Benchmarks</title>
+      <link>https://www.96rocks.com/blog/2017/11/02/rock960-linux-benchmarks/</link>
+      <pubDate>Thu, 02 Nov 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2017/11/02/rock960-linux-benchmarks/</guid>
+      <description>Rock960 Linux Benchmarks Last week, our friends, CNXSoft write a post about the linux benchmarks with among some popular arm boards and intel devices - &amp;ldquo;Linux Benchmarks – Intel J3455 Apollo Lake vs Z3735F Bay Trail vs RK3399 and Other ARM Platforms&amp;rdquo;. The result seems not very good for RK3399 on another board, and also there are some comments of users complaining that RK3399 performance let them down. So we ran the benchmark on rock960, let&amp;rsquo;s have a look at the result.</description>
+    </item>
     
     <item>
       <title>Rock960 Poster</title>

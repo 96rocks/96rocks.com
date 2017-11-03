@@ -6,7 +6,7 @@
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contact</title>
+  <title>Rock960 Linux Benchmarks</title>
   <meta name="author" content="" />
 
   
@@ -56,9 +56,9 @@
   <link rel="alternate" href="https://www.96rocks.com/index.xml" type="application/rss+xml" title="96boards for Rockchip SoCs">
 
   
-  <meta property="og:title" content="Contact" />
+  <meta property="og:title" content="Rock960 Linux Benchmarks" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/contact//" />
+  <meta property="og:url" content="/blog/2017/11/02/rock960-linux-benchmarks//" />
   <meta property="og:image" content="img/logo.png" />
 
 </head>
@@ -77,9 +77,9 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="https://www.96rocks.com/">
-                    <img src="https://www.96rocks.com/img/logo.png" alt="Contact logo" class="hidden-xs hidden-sm">
-                    <img src="https://www.96rocks.com/img/logo-small.png" alt="Contact logo" class="visible-xs visible-sm">
-                    <span class="sr-only">Contact - go to homepage</span>
+                    <img src="https://www.96rocks.com/img/logo.png" alt="Rock960 Linux Benchmarks logo" class="hidden-xs hidden-sm">
+                    <img src="https://www.96rocks.com/img/logo-small.png" alt="Rock960 Linux Benchmarks logo" class="visible-xs visible-sm">
+                    <span class="sr-only">Rock960 Linux Benchmarks - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -164,7 +164,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Contact</h1>
+                <h1>Rock960 Linux Benchmarks</h1>
             </div>
         </div>
     </div>
@@ -172,114 +172,162 @@
 
 
         <div id="content">
-            
+            <div class="container">
 
-              <div class="container" id="contact">
+                <div class="row">
 
-    <div class="row">
-        <div class="col-md-8">
+                    
 
-            <section>
+                    <div class="col-md-9" id="blog-post">
 
-                
+                        <p class="text-muted text-uppercase mb-small text-right">November 2, 2017</p>
 
-<h1 id="keep-in-touch">Keep in touch</h1>
+                        <div id="post-content">
+                          
 
-<p>The team behind 96rocks is Vamrs, an embedded solution provider based in Shenzhen, China. The 96rocks project aims at providing a fundamental hardware platform for the commercial and industrial applications. We believe that an open eco-system and open source community benefit everyone.</p>
+<h2 id="rock960-linux-benchmarks">Rock960 Linux Benchmarks</h2>
 
-<p>Please feel free to contact us, we are happy to answer any 96rocks/96boards questions from you.</p>
+<p>Last week, our friends, CNXSoft write a post about the linux benchmarks with among some popular arm boards and intel devices - &ldquo;<a href="https://www.cnx-software.com/2017/10/26/linux-benchmarks-intel-j3455-apollo-lake-vs-z3735f-bay-trail-vs-rk3399-and-other-arm-platforms/">Linux Benchmarks – Intel J3455 Apollo Lake vs Z3735F Bay Trail vs RK3399 and Other ARM Platforms</a>&rdquo;. The result seems not very good for RK3399 on another board, and also there are some comments of users complaining that RK3399 performance let them down. So we ran the benchmark on rock960, let&rsquo;s have a look at the result.</p>
 
+<p><img src="/img/blog/rock960-linux-benchmarks/john_the_ripper.png" alt="rock960 john the ripper" />
+<img src="/img/blog/rock960-linux-benchmarks/c-ray.png" alt="c-ray" />
+<img src="/img/blog/rock960-linux-benchmarks/smallpt.png" alt="smallpt" />
+<img src="/img/blog/rock960-linux-benchmarks/Himeno.png" alt="himeno" />
+<img src="/img/blog/rock960-linux-benchmarks/flac.png" alt="flac" /></p>
 
-                
-
-                <div class="heading">
-                  <h3>Contact form</h3>
-                </div>
-
-                <div id="contact-message"></div>
-
-                <form class="contact-form" method="POST" action="https://formspree.io/hello@vamrs.com">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                              <label for="name">Your Name</label>
-                                <input type="text" class="form-control" name="name" id="name" required>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="email">Your Email</label>
-                                <input type="email" class="form-control" name="email" id="email" required>
-                            </div>
-                        </div>
-                        <div class="col-sm-12">
-                            <div class="form-group">
-                              <label for="message">Your Message</label>
-                                <textarea id="message" class="form-control" name="message" required></textarea>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-12 text-center">
-                          <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>Send Message</button>
+<p>The full log of the test running can be found on <a href="https://pastebin.com/MKXkpi04">pastebin.com</a>. The full test result can be found on <a href="https://openbenchmarking.org/result/1711019-TY-1709271TY72">OpenBenchmarking.org</a>.</p>
 
                         </div>
+                        
+                        
+                        <div id="comments">
+                            <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "96rocks" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                        </div>
+                        
+
                     </div>
                     
-                </form>
 
-                
+                    
 
-            </section>
+                    
 
-        </div>
+                    <div class="col-md-3">
 
-        <div class="col-md-4">
+                        
 
-            
-            <section>
+                        
 
-              <h3 class="text-uppercase"> Address</h3>
+<div class="panel panel-default sidebar-menu">
 
-                <p><strong>Vamrs Limited</strong>
-        <br>Seven Star Creative Park
-        <br>Baoan, Shenzhen
-        <br>518000
-        <br>Guangdong
-        <br>
-        <strong>People's Republic of China</strong>
-        <br>
-        <br><strong>Email:</strong> support@vamrs.com
-        <br>
-      </p>
-      
-
-
-            </section>
-
-            
-
-        </div>
-
+    <div class="panel-heading">
+      <h3 class="panel-title">Search</h3>
     </div>
-    
+
+    <div class="panel-body">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
+            <div class="input-group">
+                <input type="search" name="q" results="0" class="form-control" placeholder="Search">
+                <input type="hidden" name="q" value="site:https://www.96rocks.com/">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+                </span>
+            </div>
+        </form>
+    </div>
 </div>
 
 
-  
-      <div class="hidden">
-        <input id="gmap-lat" value="22.578850" />
-        <input id="gmap-lng" value="113.910215" />
-        <input id="gmap-marker" value="https://www.96rocks.com/img/marker.png" />
-        
-          <input id="gmap-dir" value="22.578850,113.910215" />
-        
-      </div>
-      <div id="map" />
-  
 
 
 
 
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+      <h3 class="panel-title">Categories</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="nav nav-pills nav-stacked">
+            
+            <li><a href="https://www.96rocks.com/categories/default">default (4)</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="panel sidebar-menu">
+    <div class="panel-heading">
+      <h3 class="panel-title">Tags</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="tag-cloud">
+            
+            <li><a href="https://www.96rocks.com/tags/benchmark"><i class="fa fa-tags"></i> benchmark</a>
+            </li>
+            
+            <li><a href="https://www.96rocks.com/tags/factory"><i class="fa fa-tags"></i> factory</a>
+            </li>
+            
+            <li><a href="https://www.96rocks.com/tags/manufacturing"><i class="fa fa-tags"></i> manufacturing</a>
+            </li>
+            
+            <li><a href="https://www.96rocks.com/tags/rock960"><i class="fa fa-tags"></i> rock960</a>
+            </li>
+            
+            <li><a href="https://www.96rocks.com/tags/smt"><i class="fa fa-tags"></i> smt</a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
             
         </div>
         

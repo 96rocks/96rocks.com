@@ -29,7 +29,7 @@ paginate = 10
 [[menu.main]]
     name = "Docs"
     identifier = "docs"
-    url  = "http://docs.96rocks.com"
+    url  = "https://www.96boards.ai/documentation/rock960/"
     weight = 30
 
 [[menu.main]]

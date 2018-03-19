@@ -14,7 +14,7 @@ banner = "img/blog/linaro-connect-hkg18/linaro-connect-logo.png"
 
 George Grey, Linaro CEO, has presented the openning keynote. Some announcement related with us 96rocks are:
 
-### official announcement of 96boards.ai
+### Official announcement of 96boards.ai
 
 [96boards.ai](https://www.96boards.ai/) is a hardware and software developer platform for AI solutions. There are three boards are currently listed on 96boards.ai and ROCK960 is one of them.
 
@@ -26,7 +26,7 @@ Rockchip has officially joined 96Boards as Steering Committee member, which mean
 
 ![ROCK960 announcement](/img/blog/linaro-connect-hkg18/rock960-keynote.jpeg?classes=shadow&width=500)
 
-### official announcement of ROCK960 and Ficus
+### Official announcement of ROCK960 and Ficus
 
 ROCK960 was firsted introduced at last Linaro Connect SFO17 and it was semi-offical since Rockchip was not a Linaro/96boards member. And now ROCK960 is official introduced together with Ficus, a 96baords EE specification compliant board based on RK3399/RK3399pro. For ROCK960, I think you are already familiar, but for Ficus, you can simply call it the "EE version of ROCK960" but Ficus can do far more than ROCK960. We will write another saperately blog to introduce Ficus.
 

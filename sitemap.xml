@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.96rocks.com/blog/2018/03/19/linaro-connect-hkg18-keynote/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.96rocks.com/blog/2018/01/08/rockchip-rk3399pro-announcement/</loc>
     <lastmod>2018-01-08T00:00:00+00:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://www.96rocks.com/</loc>
-    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,7 +46,7 @@
   
   <url>
     <loc>https://www.96rocks.com/blog/</loc>
-    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,7 +61,13 @@
   
   <url>
     <loc>https://www.96rocks.com/categories/default/</loc>
-    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/events/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,6 +78,12 @@
   <url>
     <loc>https://www.96rocks.com/tags/factory/</loc>
     <lastmod>2017-09-24T09:20:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/ficus/</loc>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +99,7 @@
   
   <url>
     <loc>https://www.96rocks.com/tags/rock960/</loc>
-    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

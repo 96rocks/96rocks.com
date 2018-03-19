@@ -6,10 +6,20 @@
     <description>Recent content on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcement from Linaro Connect HKG18</title>
+      <link>https://www.96rocks.com/blog/2018/03/19/linaro-connect-hkg18-keynote/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2018/03/19/linaro-connect-hkg18-keynote/</guid>
+      <description>About Linaro Connect Linaro Connect is one of the biggest event in ARM eco-system, topics includes open source software development for Linux, tools and the various vertical segment ecosystems that use Arm processors. Linaro Connect is hosted twice(in spring and autumn) in a year, the 2018 spring Linaro Connect is hosted in Hong Kong. All the slides and resources of Linaro Connect HKG18 can be found here.
+Announcement from Linaro Connect HKG18 George Grey, Linaro CEO, has presented the openning keynote.</description>
+    </item>
     
     <item>
       <title>Rockchip announced RK3399Pro</title>

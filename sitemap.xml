@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.96rocks.com/blog/2018/09/23/rk3399pro-update-and-rk1808-introduce/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.96rocks.com/blog/2018/03/19/linaro-connect-hkg18-keynote/</loc>
     <lastmod>2018-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>https://www.96rocks.com/</loc>
-    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,7 +51,7 @@
   
   <url>
     <loc>https://www.96rocks.com/blog/</loc>
-    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -61,7 +66,7 @@
   
   <url>
     <loc>https://www.96rocks.com/categories/default/</loc>
-    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,6 +100,18 @@
   
   <url>
     <loc>https://www.96rocks.com/preorder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk1808/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3399pro/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

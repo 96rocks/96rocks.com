@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rk1808 on 96boards for Rockchip SoCs</title>
+    <link>https://www.96rocks.com/tags/rk1808/</link>
+    <description>Recent content in Rk1808 on 96boards for Rockchip SoCs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.96rocks.com/tags/rk1808/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RK3399pro update and RK1808 introduction</title>
+      <link>https://www.96rocks.com/blog/2018/09/23/rk3399pro-update-and-rk1808-introduce/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2018/09/23/rk3399pro-update-and-rk1808-introduce/</guid>
+      <description>RK3399 Pro update When Rockhip released RK3399 Pro, their first chip with a powerful dedicated NPU up to 2.4TOPs performance, it was told that the release time is August. Apparently they had some delay, and it&amp;rsquo;s the end of Sep now! We recently have some updates from Rockchip that we can start to design boards based on RK3399 Pro now.
+Not pin-to-pin compatible We posted on our website that RK3399 Pro was pin-to-pin compatibble with RK3399 and we can upgrade current boards without hardware changes.</description>
+    </item>
+    
+  </channel>
+</rss>

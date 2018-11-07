@@ -209,11 +209,62 @@
 
 <h2 id="new-standalone-npu-chip-rk1808">New standalone NPU chip - RK1808</h2>
 
-<p>The info is requested not to be shown.</p>
+<p>There is something we want to share with you is what Rockchip haven&rsquo;t announced officially, there is a standalone version of the NPU chip, RK1808. We noticed this from the latest Rockhip Linux kernel commit on Github, the develop-4.4 branch(deleted from github now). We can learn some features of RK1808 from the device tree.</p>
+
+<p>First, this is a dual core A35 chip.</p>
+
+<pre><code>cpus {
+    #address-cells = &lt;2&gt;;
+    #size-cells = &lt;0&gt;;
+
+    cpu0: cpu@0 {
+        device_type = &quot;cpu&quot;;
+        compatible = &quot;arm,cortex-a35&quot;, &quot;arm,armv8&quot;;
+        reg = &lt;0x0 0x0&gt;;
+        clocks = &lt;&amp;cru ARMCLK&gt;;
+    };
+
+    cpu1: cpu@1 {
+        device_type = &quot;cpu&quot;;
+        compatible = &quot;arm,cortex-a35&quot;, &quot;arm,armv8&quot;;
+        reg = &lt;0x0 0x1&gt;;
+        clocks = &lt;&amp;cru ARMCLK&gt;;
+    };
+};
+</code></pre>
+
+<p>Second, it has NPU inside. Wow! We think it&rsquo;s the same 2.4TOPs NPU inside RK3399pro.</p>
+
+<p>Third, what makes it interesting is this chip has <strong>8 UART</strong> and <strong>12 channel PWM</strong>. Apparently the targeting market is the industrial control and robotics.</p>
+
+<p>Other features includes, USB3, GMAC, MIPI CSI/DSI/RGB. There is an interesting node in device tree called pciusb:</p>
+
+<pre><code>    pciusb {
+        pciusb_pins: pciusb-pins {
+            rockchip,pins =
+                /* pciusb_debug0 */
+                &lt;4 RK_PB4 3 &amp;pcfg_pull_none&gt;,
+                /* pciusb_debug1 */
+                &lt;4 RK_PB5 3 &amp;pcfg_pull_none&gt;,
+                /* pciusb_debug2 */
+                &lt;4 RK_PB6 3 &amp;pcfg_pull_none&gt;,
+                /* pciusb_debug3 */
+                &lt;4 RK_PB7 3 &amp;pcfg_pull_none&gt;,
+                /* pciusb_debug4 */
+                &lt;4 RK_PC0 3 &amp;pcfg_pull_none&gt;,
+                /* pciusb_debug5 */
+                &lt;4 RK_PC1 3 &amp;pcfg_pull_none&gt;,
+                /* pciusb_debug6 */
+                &lt;4 RK_PC2 3 &amp;pcfg_pull_none&gt;,
+                /* pciusb_debug7 */
+                &lt;4 RK_PC3 3 &amp;pcfg_pull_none&gt;;
+        };
+    };
+</code></pre>
 
 <h2 id="conclusion">Conclusion</h2>
 
-<p>The info is requested not to be shown.</p>
+<p>Further digging we found in the rk3399pro-npu.dtsi, there is the dual A35 core and almost the same peripheral as RK1808. We have the reason to believe that <strong>RK3399pro = RK3399 + RK1808</strong> and RK3399 and RK1808 communicate via USB3 bus, that&rsquo;s why one USB3 is missing in RK3399pro exported.</p>
 
                         </div>
                         

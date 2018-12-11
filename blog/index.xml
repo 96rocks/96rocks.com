@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Toybrick RK3399pro board is pre-order now</title>
+      <link>https://www.96rocks.com/blog/2018/12/11/toybrick-rk3399pro-board-is-pre-order-now/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2018/12/11/toybrick-rk3399pro-board-is-pre-order-now/</guid>
+      <description>TOYBRICK RK3399PRO BOARD IS PRE-ORDER NOW Rockchip now introduces the new Toybrick series development board starting with TB-RK3399Pro. TB-RK3399Pro and is expected to be shipped in mid of Jan. 2019, in limited numbers.
+The TB-RK3399Pro development board is equipped with the super-performance AI processor RK3399Pro, which has superior general-purpose computing performance. It equips ARM big.LITTLE architecture, dual-core Cortex-A72 + quad-core Cortex-A53, with technical leadership in overall performance and power consumption; quad-core ARM high-end GPU Mali-T860, integrates multiple bandwidth compression technology, providing overall excellent performance.</description>
+    </item>
     
     <item>
       <title>RK3399pro update and RK1808 introduction</title>

@@ -6,10 +6,20 @@
     <description>Recent content in Rk3399pro on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/tags/rk3399pro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduce Vmarc-rk3399pro SoM and ficus2 carrier board</title>
+      <link>https://www.96rocks.com/blog/2019/04/01/introduce-vmarc-rk3399pro-som-and-ficus2-carrier-board/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2019/04/01/introduce-vmarc-rk3399pro-som-and-ficus2-carrier-board/</guid>
+      <description>TOYBRICK RK3399PRO BOARD IS PRE-ORDER NOW Rockchip now introduces the new Toybrick series development board starting with TB-RK3399Pro. TB-RK3399Pro and is expected to be shipped in mid of Jan. 2019, in limited numbers.
+The TB-RK3399Pro development board is equipped with the super-performance AI processor RK3399Pro, which has superior general-purpose computing performance. It equips ARM big.LITTLE architecture, dual-core Cortex-A72 + quad-core Cortex-A53, with technical leadership in overall performance and power consumption; quad-core ARM high-end GPU Mali-T860, integrates multiple bandwidth compression technology, providing overall excellent performance.</description>
+    </item>
     
     <item>
       <title>Toybrick RK3399pro board is pre-order now</title>

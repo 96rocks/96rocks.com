@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rk2206 on 96boards for Rockchip SoCs</title>
+    <link>https://www.96rocks.com/tags/rk2206/</link>
+    <description>Recent content in Rk2206 on 96boards for Rockchip SoCs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.96rocks.com/tags/rk2206/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rockchip roadmap update: new RK3588/RK3530 and many more</title>
+      <link>https://www.96rocks.com/blog/2019/04/24/rockchip-roadmap-rk3588-rk3530-and-more/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2019/04/24/rockchip-roadmap-rk3588-rk3530-and-more/</guid>
+      <description>Rockchip Developer Conference 2019 Spring On April 23, the fourth “Spring Developer Event” of Rockchip was officially held in Fuzhou, China. The theme of this year&amp;rsquo;s conference is “Smart Chip, Smart Futures”, and many well-known companies and partners with global influence attended this event, attracting more than 1,000 developers and engineers.
+Rockchip 2019-2020 Roadmap Unvieled From the scale of the event, the level and breadth of the guests, as well as the number of engineers, is enough to prove the true influence of Rockchip in the industry!</description>
+    </item>
+    
+  </channel>
+</rss>

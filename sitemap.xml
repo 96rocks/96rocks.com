@@ -4,19 +4,113 @@
   
   <url>
     <loc>https://www.96rocks.com/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.96rocks.com/blog/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.96rocks.com/categories/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3288k/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3358j/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3358m/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3399k/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/blog/2019/11/25/rockchip-2020-roadmap-update/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/categories/default/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3530/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3566/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3588/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/96boards/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/blog/2019/09/11/introduce-vamrc-rk3399pro-som-and-ficus2-carrier-board/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/smarc-2.0/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/ficus/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/rk3399pro/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.96rocks.com/tags/vmarc/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,31 +132,7 @@
   </url>
   
   <url>
-    <loc>https://www.96rocks.com/tags/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.96rocks.com/categories/default/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.96rocks.com/tags/rk2108/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.96rocks.com/tags/rk3530/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.96rocks.com/tags/rk3588/</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -76,12 +146,6 @@
   <url>
     <loc>https://www.96rocks.com/blog/2018/12/11/toybrick-rk3399pro-board-is-pre-order-now/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.96rocks.com/tags/rk3399pro/</loc>
-    <lastmod>2018-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -108,12 +172,6 @@
   
   <url>
     <loc>https://www.96rocks.com/tags/events/</loc>
-    <lastmod>2018-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.96rocks.com/tags/ficus/</loc>
     <lastmod>2018-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

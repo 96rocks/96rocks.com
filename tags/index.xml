@@ -6,10 +6,118 @@
     <description>Recent content in Tags on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RK3288K</title>
+      <link>https://www.96rocks.com/tags/rk3288k/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3288k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RK3358J</title>
+      <link>https://www.96rocks.com/tags/rk3358j/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3358j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RK3358M</title>
+      <link>https://www.96rocks.com/tags/rk3358m/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3358m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RK3399K</title>
+      <link>https://www.96rocks.com/tags/rk3399k/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3399k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rk3530</title>
+      <link>https://www.96rocks.com/tags/rk3530/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3530/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rk3566</title>
+      <link>https://www.96rocks.com/tags/rk3566/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3566/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rk3588</title>
+      <link>https://www.96rocks.com/tags/rk3588/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3588/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>96boards</title>
+      <link>https://www.96rocks.com/tags/96boards/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/96boards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMARC 2.0</title>
+      <link>https://www.96rocks.com/tags/smarc-2.0/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/smarc-2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ficus</title>
+      <link>https://www.96rocks.com/tags/ficus/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/ficus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rk3399pro</title>
+      <link>https://www.96rocks.com/tags/rk3399pro/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3399pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmarc</title>
+      <link>https://www.96rocks.com/tags/vmarc/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/vmarc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RK2206</title>
@@ -39,38 +147,11 @@
     </item>
     
     <item>
-      <title>rk3530</title>
-      <link>https://www.96rocks.com/tags/rk3530/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.96rocks.com/tags/rk3530/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rk3588</title>
-      <link>https://www.96rocks.com/tags/rk3588/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.96rocks.com/tags/rk3588/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rv1109</title>
       <link>https://www.96rocks.com/tags/rv1109/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/rv1109/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rk3399pro</title>
-      <link>https://www.96rocks.com/tags/rk3399pro/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.96rocks.com/tags/rk3399pro/</guid>
       <description></description>
     </item>
     
@@ -98,15 +179,6 @@
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ficus</title>
-      <link>https://www.96rocks.com/tags/ficus/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.96rocks.com/tags/ficus/</guid>
       <description></description>
     </item>
     

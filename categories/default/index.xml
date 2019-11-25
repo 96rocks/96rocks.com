@@ -6,10 +6,28 @@
     <description>Recent content in default on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/categories/default/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rockchip 2020 Processor Roadmap Update</title>
+      <link>https://www.96rocks.com/blog/2019/11/25/rockchip-2020-roadmap-update/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2019/11/25/rockchip-2020-roadmap-update/</guid>
+      <description>2020 Roadmap update from Rockchip 2019 is coming to an end, and the plan for the coming year is already in place. We would like to share with you the next generation of RK35XX series SoCs, which will be launched by Rockchip in 2020: RK3588, RK3566 and RK3530, as well as its application scenarios, which covers industrial, AI, IoT, Audio and so on. Below is an updated roadmap from Rockchip officially:</description>
+    </item>
+    
+    <item>
+      <title>Introduce VMARC RK3399Pro SOM and Ficus2 Carrier Board</title>
+      <link>https://www.96rocks.com/blog/2019/09/11/introduce-vamrc-rk3399pro-som-and-ficus2-carrier-board/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2019/09/11/introduce-vamrc-rk3399pro-som-and-ficus2-carrier-board/</guid>
+      <description>VMARC SoM Family VMARC SoM is a series of SoM(System on Module) designed by Vamrs following the SMARC 2.0((Smart Mobility Architecture) standard. The SMARC standard is a versatile small form factor computer Module definition targeting applications that require low power, low costs, and high performance. VMARC SoM stand out with rich choice of computing power, graphics, camera, sound, network and optional wireless interfaces, offering embedded system developers a complete, off-the-shelf, upgradeable, credit-card sized embedded computing core that is ideal for IoT, multimedia, low-power graphics-intensive applications and AI enabled devices.</description>
+    </item>
     
     <item>
       <title>Rockchip roadmap update: new RK3588/RK3530 and many more</title>

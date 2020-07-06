@@ -6,10 +6,23 @@
     <description>Recent content in default on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/categories/default/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenGLES 3 Demo on the Rock960 running Panfrost drivers</title>
+      <link>https://www.96rocks.com/blog/2020/05/28/opengles-3-demo-on-the-rock960-running-panfrost-drivers/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2020/05/28/opengles-3-demo-on-the-rock960-running-panfrost-drivers/</guid>
+      <description>OpenGLES 3 Demo on the Rock960 running Panfrost drivers Sahaj Sarup from Linaro wrote a blog update on 96boards wesite.
+Hi all,
+Just a quick blog showing OpenGLES 3 applications now running on the Rock960 using the Panfrost GPU drivers.
+A Quick Recap on Panfrost: Panfrost is a free and open source driver for Mali Midgard and Bifrost GPUs.
+The driver is capable of running a few demos and has been upstream to Mesa &amp;amp; Linux (currently in linux-next).</description>
+    </item>
     
     <item>
       <title>Rockchip 2020 Processor Roadmap Update</title>

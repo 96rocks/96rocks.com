@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RK3566h on 96boards for Rockchip SoCs</title>
+    <link>https://www.96rocks.com/tags/rk3566h/</link>
+    <description>Recent content in RK3566h on 96boards for Rockchip SoCs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.96rocks.com/tags/rk3566h/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rockchip RK3566 features and highlights</title>
+      <link>https://www.96rocks.com/blog/2020/10/21/rockchip-rk3566-highlights/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2020/10/21/rockchip-rk3566-highlights/</guid>
+      <description>In the Rockchip 2020 Processor Roadmap Update we had some basic info for RK3566 SoC and we know it&amp;rsquo;s a mid-range SoC targeting at AIoT applications with quad A55 cores, G52 GPU and supports dual display. We also regarded RK3566 as an upgrade version of the classic RK3288 with 64bits cpu, up to date gpu and some modern peripheral such as USB3.0. Vamrs, as the tier one design house of Rockchip, now have received the reference design of RK3566 and we can&amp;rsquo;t wait to share with you some highlights of this amazing and promising SoC.</description>
+    </item>
+    
+  </channel>
+</rss>

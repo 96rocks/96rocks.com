@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>RK3566d</title>
       <link>https://www.96rocks.com/tags/rk3566d/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/rk3566d/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>RK3566h</title>
       <link>https://www.96rocks.com/tags/rk3566h/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/rk3566h/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>rk3566</title>
       <link>https://www.96rocks.com/tags/rk3566/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/rk3566/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>rk3566a</title>
       <link>https://www.96rocks.com/tags/rk3566a/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/rk3566a/</guid>
       <description></description>
@@ -50,9 +50,18 @@
     <item>
       <title>rk3568</title>
       <link>https://www.96rocks.com/tags/rk3568/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/rk3568/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rk3588</title>
+      <link>https://www.96rocks.com/tags/rk3588/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/tags/rk3588/</guid>
       <description></description>
     </item>
     
@@ -134,15 +143,6 @@
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.96rocks.com/tags/rk3530/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rk3588</title>
-      <link>https://www.96rocks.com/tags/rk3588/</link>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.96rocks.com/tags/rk3588/</guid>
       <description></description>
     </item>
     

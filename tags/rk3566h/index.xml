@@ -6,10 +6,20 @@
     <description>Recent content in RK3566h on 96boards for Rockchip SoCs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.96rocks.com/tags/rk3566h/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduce Rockchip RK3568</title>
+      <link>https://www.96rocks.com/blog/2020/11/28/introduce-rockchip-rk3568/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.96rocks.com/blog/2020/11/28/introduce-rockchip-rk3568/</guid>
+      <description>The RK3568 was officially unveiled in the fifth RDC(Rockchip Developer Conference).
+Rockchip RK3568 chip is a high-range general-purpose SoC, made in 22nm process technology, integrated 4-core ARM architecture A55 processor and Mali G52 2EE graphics processor, supporting 4K decoding and 1080P encoding. RK3568 supports various types of peripheral interfaces such as SATA/PCIE/USB3.0, it has a built-in independent NPU, and can be used for lightweight AI applications. RK3568 supports both Android 11 and Linux systems, and targets at industrial customization markets such as IoT gateways, NVR storage, industrial control panels, industrial equipment, industrial control boxes, karaoke, cloud terminals, and vehicle control center.</description>
+    </item>
     
     <item>
       <title>Rockchip RK3566 features and highlights</title>
